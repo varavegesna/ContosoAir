@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/VaraPractice/varavegesna/_apis/build/status/varavegesna.ContosoAir?branchName=master)](https://dev.azure.com/VaraPractice/varavegesna/_build/latest?definitionId=20&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
